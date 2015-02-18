@@ -4,7 +4,7 @@
 ### - Fork this repository to your personal repo
 ### - Clone your fork
 ### - Create a git branch on your local fork
-### - Create "helloworld<ur_name>.py" and add a print statement
+### - Create "helloworld_ur_name.py" and add a print statement
 ### - Git add the new file
 ### - Commit your code on local
 ### - Push your commit to the upstream branch
